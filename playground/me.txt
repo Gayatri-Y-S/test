@@ -1,5 +1,0 @@
-{{#user}
-Name: Gayatri Y S
-Skills: HTML, CSS, Java, sqlite
-Email: gayathriys95750@gmail.com
-{{/user}}
